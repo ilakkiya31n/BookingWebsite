@@ -1,0 +1,27 @@
+
+.navbar-container{
+    overflow: hidden;
+  background-color: #333;
+}
+
+li {
+    float: left;
+  }
+  
+  .navbar-container li{
+    margin:2px;
+    float: left;
+  color: #2913a4;
+  box-shadow: 2px 2px 2px 2px;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+  .con{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #e7f0f1;
+}

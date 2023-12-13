@@ -1,0 +1,68 @@
+input[type=text], input[type=password], input[type=Date], input[type=number],input[type=Time]
+ {
+  border-radius: 10px;
+  color:black;
+  border-color: rgb(212, 222, 216);
+  margin: 3px;
+  padding: 12px;
+  caret-color:rgb(55, 94, 89);
+  }
+  
+  .cols{
+     
+     background-image: url("C:\Users\ilakk\OneDrive\Desktop\BOOKINGWEBSITE\booking\public\point.jpg");
+    background-repeat: no-repeat;
+     background-size: 1500px 700px;
+  }
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+   
+  }
+  
+  button:hover {
+    opacity:1;
+  }
+  .cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+  } 
+  .cancelbtn, .signupbtn {
+    float: left;
+    width: 50%;
+  }
+  .container {
+    color:black;
+      display:flex;
+     margin-left: 100px ;
+      align-items: center;
+      height: 100vh;
+      width: 87vw;
+  }
+  .registration
+  {
+   
+    color:black;
+      border-radius: 10%;
+     border:4px solid rgb(6, 8, 7);
+     padding: 30px;
+     background-color: rgb(6, 7, 7);
+  text-align: center;
+  } 
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  h1{
+    color:aliceblue;
+  }
+  label{
+    color: rgb(200, 162, 217);
+  }
+  
